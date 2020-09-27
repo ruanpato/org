@@ -21,4 +21,4 @@ Este repositório é voltado a unir módulos de outros repositórios respectivos
 
 ## Autor ##
 
-[Ruan Pato](https://github.com/ruanpato)
+- **[Ruan Pato](https://github.com/ruanpato)** - *Criador do repositório, descrições em README.md e resoução de exercícios e trabalhos*.
