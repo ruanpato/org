@@ -1,13 +1,24 @@
-# Organização de computadores #
+# Organização de computadores [:link:](https://github.com/ruanpato/org) #
+
+## Sumário ##
+
+- [Organização de computadores :link:](#organização-de-computadores-link)
+  - [Sumário](#sumário)
+  - [Descrição](#descrição)
+  - [Ferramentas utilizadas 🛠️](#ferramentas-utilizadas-️)
+  - [Autor](#autor)
 
 ## Descrição ##
 
-Este repositório é voltado a resolução de possíveis trabalhos, assim possibilitando um foco maior nas outras matérias que cursarei em 2019.2 no meu curso de graduação na Universidade Federal da Fronteira Sul.
+Este repositório é voltado a unir módulos de outros repositórios respectivos ao componente curricular Obrigatório de Organização de Computadores que cursei na minha graduação de Bacharel em Ciência da Computação na Universidade Federal da Fronteira Sul.
 
-### Autor ###
+## Ferramentas utilizadas 🛠️ ##
+
+- [GNU-GCC](https://gcc.gnu.org/) - GNU gcc and g++ compiler
+- [Python 3](https://www.python.org/)
+- [M.A.R.S.(MIPS Assembler and Runtime Simulator)](http://courses.missouristate.edu/KenVollmar/mars/)
+- [RARS](https://github.com/TheThirdOne/rars) - RISC-V Assembler and Runtime Simulator
+
+## Autor ##
 
 [Ruan Pato](https://github.com/ruanpato)
-
-### Ferramentas utilizadas ###
-[Python 3](https://www.python.org/)  
-[M.A.R.S.(MIPS Assembler and Runtime Simulator)](http://courses.missouristate.edu/KenVollmar/mars/)
